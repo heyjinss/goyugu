@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/goyugu/static/css/main.e6c13ad2.css",
+    "main.js": "/goyugu/static/js/main.4c277b15.js",
+    "static/js/453.e5658f26.chunk.js": "/goyugu/static/js/453.e5658f26.chunk.js",
+    "static/media/back.png": "/goyugu/static/media/back.6d092a63dacd31f0b665.png",
+    "static/media/image4.jpg": "/goyugu/static/media/image4.ec3ae1952460c51cb45a.jpg",
+    "static/media/image3.jpg": "/goyugu/static/media/image3.d68ab3eb4fd01f7dd652.jpg",
+    "static/media/image2.jpg": "/goyugu/static/media/image2.26c4199602cc921a1989.jpg",
+    "static/media/image1.jpg": "/goyugu/static/media/image1.f7be77ec54947c2ec9d1.jpg",
+    "static/media/image6.jpg": "/goyugu/static/media/image6.eb1517aaed0637ed7957.jpg",
+    "static/media/goyu.png": "/goyugu/static/media/goyu.0303a590a1e31ada4df3.png",
+    "static/media/image5.jpg": "/goyugu/static/media/image5.02ac3b0a4092ad3001ea.jpg",
+    "static/media/goyuLOGO2.png": "/goyugu/static/media/goyuLOGO2.ac3982d99867fa5ff226.png",
+    "index.html": "/goyugu/index.html",
+    "main.e6c13ad2.css.map": "/goyugu/static/css/main.e6c13ad2.css.map",
+    "main.4c277b15.js.map": "/goyugu/static/js/main.4c277b15.js.map",
+    "453.e5658f26.chunk.js.map": "/goyugu/static/js/453.e5658f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4c277b15.js"
+  ]
+}
