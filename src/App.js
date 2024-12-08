@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 //import DataGridDemo from "./component/DatagridDemo.tsx";
 //import TreeView from "./component/TreeView.tsx";
 //import TreeData from "./component/TreeData.tsx";
@@ -7,9 +7,17 @@ import PageContainer from "./component/PageContainer.tsx";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import Com0100 from "./com/com0100.tsx";
+import history from "./frame/history.tsx"; // About 컴포넌트
+import donate from "./frame/donate.tsx"; // About 컴포넌트
 function App() {
   // 백엔드에서 가져온 데이터를 저장할 상태
   const [members, setMembers] = useState([]);
+  <Router>
+    <Routes>
+      <Route path={history} element={<history />} />
+      <Route path={donate} element={<donate />} />
+    </Routes>
+  </Router>;
 
   useEffect(() => {
     axios
